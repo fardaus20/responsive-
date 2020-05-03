@@ -1,0 +1,523 @@
+/* 
+  ##Device = Extra large
+  ##Screen = large desktop,1200px and up
+*/
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+  
+  .container{
+     width:1200px; 
+  }
+  
+  .navbar-nav{
+   margin-top:-60px;
+   margin-right:90px;
+
+  }
+  
+  .navbar-nav li a {
+  font-size: 14px;
+  }
+  
+  .login-btn  {
+    padding: 8px;
+    font-size:13px ;
+    margin-right:60px;
+   
+   
+  }  
+  .header-top input{
+    margin-top:-20px;
+  }
+  
+  .carousel-caption h1{
+    font-size: 35px
+  }
+  
+  .carousel-caption p{
+    font-size:17px;
+    line-height: 30px
+  } 
+  .carousel-caption a{
+    font-size: 14px;
+   margin: 0 5px;
+  }
+  
+  .service-content h3{
+    font-size: 18px
+  }
+  
+  .service-content p{
+    font-size: 14px
+  }
+  
+
+
+  .newslater-right-text .subscribe-btn {
+   padding: 10px
+    
+  }
+  .newslater-right-text input{
+    width: 220px;
+    height: 20px
+  }
+  
+  .footer-bottom-text p{
+    font-size: 17px
+  }
+  
+  .about-us img{
+    margin-top:10px
+  }
+  
+  .staf-info{
+    margin-top:-10px
+  }
+  
+  .back-height {
+    height: 510px
+  }
+  
+  .counter-content{
+    width: 890px;
+   padding: 20px
+  }  
+  
+  
+  .about-us img{
+    margin-top:50px
+  }
+  
+  .staf-info{
+    margin-top:50px
+  }
+  
+  .back-height {
+    height: 510px
+  }
+  .newslater-right-text span{font-size: 10px;margin-right:-20px;}
+
+ 
+  
+}
+
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = 992 px and up
+*/
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  
+  .container{
+     width:992px; 
+  }
+  
+  .logo{
+    width: 120px
+  }
+   .navbar-nav{
+   margin-left:-30px
+  
+  }
+  
+  .navbar-nav{
+    margin-left:-90px
+  }
+  
+  .navbar-nav li a{
+   margin-top:40px;
+   
+  }
+
+  .search{
+    font-size: 14px;
+  width: 80px!important;margin-top:50px;
+    margin-left:20px
+ 
+  
+  }
+  .login-btn  {
+    font-size:12px;
+    padding: 7px 10px 10px 12px;
+   margin-top:-40px;
+    margin-left:140px;
+    
+ 
+   
+  }  
+  
+  .carousel-caption h1{
+    font-size: 35px
+  }
+  
+  .carousel-caption p{
+    font-size:17px;
+    line-height: 30px
+  } 
+  .carousel-caption a{
+    font-size: 14px;
+   margin: 0 5px;
+  }
+  
+  .item img{
+    
+  } 
+  
+  .service-content h3{
+    font-size: 18px
+  }
+  
+  .service-content p{
+    font-size: 14px
+  }
+  
+  .counter-content{
+    width: 780px;
+   padding: 20px
+  } 
+  
+  .single-staf-item{
+    width: 270px;margin-left:10px
+  }
+  
+ 
+  
+.left-instructor:before{
+left:440px
+  }
+
+  .newslater-right-text .subscribe-btn {
+   padding: 10px
+    
+  }
+  .newslater-right-text input{
+    width: 220px;
+    height: 20px
+  }
+  
+  .footer-bottom-text p{
+    font-size: 17px
+  }
+  
+  .about-us img{
+    margin-top:10px
+  }
+  
+  .staf-info{
+    margin-top:-10px
+  }
+  
+  .back-height {
+    height: 510px
+  }
+  
+  
+  .left-instructor:before{
+    right: -40px
+  }
+  
+  .left-instructor p{
+    margin-left:-10px
+  }
+  
+  .newslater-right-text span{
+    margin-left: 190px
+  } 
+  .newslater-right-text{
+    height: 350px
+  }
+  
+  .single-course-img{
+    width: 270px
+  }
+  .single-course{
+    width: 293px
+  }
+  
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen =  768px to 991px
+*/
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 576px to 767px
+*/
+
+@media (min-width: 576px) and (max-width: 767px) {
+  
+  .container{width:576px
+   }
+  
+ 
+  .logo{
+    width:100px;
+  }
+ 
+  .carousel-item a{
+    width: 120px;
+    font-size:9px;
+    margin-top:-180px;margin-bottom: -300px;
+     padding-bottom: 10px;
+    padding-left:10px
+  } 
+  .carousel-caption h1{
+    font-size: 20px;
+  }
+  .carousel-caption h5{
+    font-size: 14px;
+    margin-bottom:-20px
+  }
+  .carousel-caption p{
+    margin-top:-10px;
+    margin-bottom: -40px;
+    font-size: 13px;
+    line-height: 20px
+  }
+  
+  .owl-carousel .item{
+    margin-left:190px
+  }
+  .owl-nav{
+    margin-left:210px;
+   
+  }
+  
+  .owl-prev{
+    width: 40px;
+   
+  }
+  
+  .owl-prev span{
+    font-size: 30px
+  }
+  .owl-next span{
+    font-size: 30px;
+  }
+ 
+  .service-bg-1{
+    width: 270px;
+   margin-bottom: 30px;
+   margin-left:95px 
+     
+  }
+  
+  .service-bg-2{
+    width: 270px;
+   margin-bottom: 30px;
+   margin-left:95px 
+     
+  }
+  
+  .service-bg-3{
+    width: 270px;
+   margin-bottom: 30px;
+   margin-left:95px 
+     
+  }
+  
+  .service-bg-4{
+    width: 270px;
+   margin-bottom: 30px;
+   margin-left:95px 
+     
+  }
+  
+  .section-title h2{
+    font-size:25px;
+    margin-bottom:-5px;
+    margin-top: -10px
+  }
+  .single-course{
+    margin: 30px 80px
+  }
+  
+  .discover-area{
+    width: 100%
+  }
+  .discover-title{
+    margin-left: -70px;
+    
+  }
+  .discover-title h2{
+    font-size: 25px;
+  }
+  .discover-title p{
+    font-size:14px;
+    width: 500px;
+    margin-top:-20px
+  }
+  .discover-area a{
+    font-size:10px ;
+    padding:10px;
+  }
+  
+  
+  .counter-area{
+    width: 100%;
+    }
+  .counter-content span{
+    font-size:22px 
+  }
+  
+  .counter-content h2{
+    font-size: 12px;
+  }
+  
+  .counter-content{
+    width: 500px;
+    margin-left:-80px;
+    padding:20px 
+  }
+  
+  .about-title h2{
+    font-size: 20px
+  } 
+  .about-title p{
+    font-size: 14px;
+    line-height:24px; 
+    width: 300px
+  }
+  
+  .single-staf-item{
+    width: 340px;
+   margin:0 90px 50px ;
+   
+  }
+  
+  .business-area h2{
+    font-size: 18px;
+  }
+  
+  .business-area p{
+    font-size:13px;
+    width: 200px;
+    text-align: left;
+   
+  }
+  .teaching-btn{
+   width: 200px;
+    font-size: 10px;}
+  .started-btn{
+    width: 150px;
+    font-size: 10px;
+  }
+   
+  .left-instructor p{
+    margin-left:0
+  }
+  .left-instructor h2{
+     margin-left:-60px;
+   
+  }
+  .right-instructor{
+    margin-right: -50px
+  }
+  .right-instructor p{
+    margin-left:50px
+  }
+  
+  .right-instructor h2{
+    margin-left:-15px
+  }
+  
+  .single-news-content{
+    width: 380px;
+    margin-left:80px;
+  }
+  
+  .news-area{
+   margin-bottom: 220%
+  }
+  
+  .newslater-left-text h2{
+    font-size: 18px;
+    line-height: 30px
+  }
+  .newslater-left-text p{
+    font-size:16px; 
+  }
+  
+  .newslater-right-text{
+    width: 300px;
+    height: 320px;
+    margin-left:-25px
+  }
+  .newslater-right-text  input{
+    width: 240px;
+    font-size: 14px;
+   height: 50px;
+    margin-bottom:10px
+      
+  } 
+  .subscribe-btn{
+    width: 190px;
+    font-size: 13px;
+    height: 50px;
+    margin-left:-2px;
+    
+  } 
+  .newslater-right-text span{
+   margin-left:40px;
+    font-size: 15px }
+   
+ .newslater-right-text h4{
+       margin-left:10px;
+   font-size: 18px
+    } 
+      
+      
+  .footer-area{
+    height: 10%
+  } 
+  .footer-bottom p{
+    font-size: 14px;
+  margin-left:25px;
+  line-height:24px}
+  
+
+  .footer-bottom a{
+    font-size: 14px;
+    margin-left:10px
+  }
+  
+  .footer-bottom-text i{
+ margin-right:50%; 
+      
+  }
+  
+  .single-footer {
+    margin-bottom: 60px;
+    margin-left: 20px
+  } 
+  
+  .single-footer h2:before{
+    left:40px
+  }
+  
+  .footer-bottom{
+    margin-top:10px
+  }
+  
+   }
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  .container{width:320px
+
+
+  }
+
+  
+}
